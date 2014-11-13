@@ -12,12 +12,12 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 3. Open `mentors.md`. Add your name in the following format:
 
 ```
-	# Chris von Csefalvay [github](http://www.github.com/chrisvoncsefalvay)
+	## Chris von Csefalvay [github](http://www.github.com/chrisvoncsefalvay)
 
-	## Offering
+	### Offering
 	`R`, `Python`, `pandas`, machine learning, careers advice
 
-	## Timezone
+	### Timezone
 	GMT
 
 ```
