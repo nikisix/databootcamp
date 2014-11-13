@@ -45,15 +45,22 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 # FAQ
 
 *Q.* Why should I mentor?
+
 *A.* In med school, people are taught to 'see one, do one and teach one' – real knowledge is being able to teach somebody and pass on your own knowledge. This is a unique chance to find others who want help in what you might be knowledgeable at.
 
+
 *Q.* Can I be both a mentor and mentee?
+
 *A.* Sure!
 
+
 *Q.* So is this in lieu of academic programmes? Or can I do both?
+
 *A.* Joining a mentoring group might be useful if you are in an academic programme, whether a MOOC or conventional education: the effects of both are synergistic with each other.
 
+
 *Q.* I have a question you haven't answered!
+
 *A.* Cool! [Let me know by e-mail](https://github.com/chrisvoncsefalvay)!
 
 
