@@ -8,3 +8,10 @@ _last updated: 13/11/2014_
 
 ### Timezone
 GMT
+## Nick Tomasino [github](http://www.github.com/ntomasino)
+
+### Offering
+`Python`, `pandas`, probabalistic programming, machine learning, careers advice
+
+### Timezone
+US-Central 
