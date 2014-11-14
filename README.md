@@ -42,6 +42,8 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 5. *Stay safe*. It's your duty to look out for your own safety. Do not share more than you feel you need to – keep it strictly academic and professional. 
 6. Above all, [be excellent to each other](http://www.youtube.com/watch?v=N_yJFLvmjJY).
 
+![Party on, dudes!](http://media.giphy.com/media/POekkUcKs16gg/giphy.gif)
+
 # FAQ
 
 *Q.* Why should I mentor?
